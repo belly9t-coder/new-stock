@@ -1,0 +1,6 @@
+{
+  "name": "Kagoj & Rong Studio — Torn Paper & Paint Generator",
+  "description": "Procedural lifetime-unique torn paper and paint asset generator with solid color, optional grain texture, 4K & 8K true transparent PNG, and editable SVG vector export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
